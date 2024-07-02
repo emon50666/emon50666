@@ -16,12 +16,12 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img align="left" alt="Firebase" height="42px"  width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" />
-  </a>
+  </a> <br/>
 </div>
 
 <br/>
 
-[ - HTMl
+[- HTMl
 - CSS
 - JavaScript
 - React
