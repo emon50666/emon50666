@@ -10,7 +10,7 @@ Thank you for visiting my profile! Feel free to check out my repositories and ge
 
 
 
-<div style="display: flex; align-items: center; margin-top: 10px; padding-top:10px">
+<div style="display: flex; align-items: center; margin-top: 10px; padding-top:10px ">
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right: 10px;"  /> 
   <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right: 10px;" />
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
@@ -21,7 +21,7 @@ Thank you for visiting my profile! Feel free to check out my repositories and ge
   <a href="https://firebase.google.com/" target="_blank">
     <img align="left" alt="Firebase" height="42px"  width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" />
   </a> <br/>
-</div>
+</div> <br/>
 
 
 
