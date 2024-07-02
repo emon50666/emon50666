@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
-<p style="margin-bottom:10px;">Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.</p>
+<p style="margin-bottom:10px; text-color:yellow;">Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.</p>
 <br/>
 
 
