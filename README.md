@@ -1,9 +1,7 @@
-## Hey 👋, I'm MD Emon Talukdar!
-<br/>
-Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
-<br/>
+
 <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
+Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
