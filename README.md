@@ -13,7 +13,7 @@
   </a> <br/>
 </div> <br/>
 
-
+git ls-files --exclude-standard -- ':!:**/*.[pjs][npv]g' ':!:**/*.ai' ':!:.idea' ':!:**/*.eslintrc' ':!:package-lock.json' | xargs wc -l
 
 - HTMl
 - Tailwind Css
