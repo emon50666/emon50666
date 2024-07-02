@@ -30,8 +30,6 @@ Thank you for visiting my profile! Feel free to check out my repositories and ge
 - JavaScript
 - React
 - Node.js
-- Express.js
-- MongoDB
-- Firebase
+
 
 
