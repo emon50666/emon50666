@@ -9,7 +9,7 @@ Thank you for visiting my profile! Feel free to check out my repositories and ge
 <br/>
 
 
-<div class="flex items-center space-x-4 mb-10">
+<div class="flex items-center space-x-4 " style="margin-bottom:10px;>
       <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
