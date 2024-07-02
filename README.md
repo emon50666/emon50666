@@ -23,7 +23,7 @@ Thank you for visiting my profile! Feel free to check out my repositories and ge
   </a> <br/>
 </div>
 
-<br/>
+
 
 - HTMl
 - Tailwind Css
