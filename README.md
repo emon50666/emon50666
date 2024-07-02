@@ -1,7 +1,11 @@
 
 <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
-<p style="margin-bottom:10px; color:yellow;">Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.  I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, I bring a comprehensive approach to building full-stack solutions. </p>
+<p style="margin-bottom:10px; color:yellow;">Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.  I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, I bring a comprehensive approach to building full-stack solutions. 
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about technology and development.
+
+</p>
 <br/>
 
 
