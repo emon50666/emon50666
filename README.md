@@ -21,7 +21,7 @@
 
 <br/>
 
-
+[ - HTMl
 - CSS
 - JavaScript
 - React
@@ -29,5 +29,5 @@
 - Express.js
 - MongoDB
 - Firebase
-
+]
 
