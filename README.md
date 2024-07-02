@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<p style="margin-top:10px;>
+
   - HTML
 - CSS
 - JavaScript
@@ -29,4 +29,4 @@
 - MongoDB
 - Firebase
 
-</p>
+
