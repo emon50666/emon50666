@@ -19,3 +19,14 @@
   </a>
 </div>
 
+<p style="margin-top:10px;>
+  - HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+</p>
