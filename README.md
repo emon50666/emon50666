@@ -21,13 +21,13 @@
 
 <br/>
 
-[- HTMl
-- CSS
+- HTMl
+- Tailwind Css
 - JavaScript
 - React
 - Node.js
 - Express.js
 - MongoDB
 - Firebase
-]
+
 
