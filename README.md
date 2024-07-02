@@ -21,7 +21,7 @@
 
 <br/>
 
-- HTML
+
 - CSS
 - JavaScript
 - React
