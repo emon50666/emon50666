@@ -1,6 +1,6 @@
  <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width: 300px; height: 80px;">
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width: 300px; height: 80px;">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="width: 300px; height: 80px;">
