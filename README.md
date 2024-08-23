@@ -1,6 +1,6 @@
  <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-emon50666
+https://github-readme-streak-stats.herokuapp.com/?emon50666
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
