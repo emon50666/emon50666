@@ -1,6 +1,6 @@
  <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,node-js,express,firebase)](https://skillicons.dev)
 <div id="badges">
   <a href="https://www.linkedin.com/in/md-emon-talukdar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 </div> <br/>
 
