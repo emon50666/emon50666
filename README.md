@@ -27,9 +27,7 @@
 
 
 
-## Web Development Animation
 
-![Web Development](https://media.giphy.com/media/3o6Zt1Z5seX0fGd8zS/giphy.gif)
 
 
 
