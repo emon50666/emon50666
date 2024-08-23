@@ -13,14 +13,15 @@
 </div>
 
 
-<div id="badges" style="display: flex; gap: 10px; margin-top: 10px; padding-top:10px;">
+<div id="badges" style="margin-top: 10px; display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/md-emon-talukdar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width: 150px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="flex-shrink: 0;"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100080623072389">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" style="width: 150px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" style="flex-shrink: 0;"/>
   </a>
 </div>
+
 
 </div>
 
