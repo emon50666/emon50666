@@ -1,6 +1,4 @@
  <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
-<br/>
-
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width: 300px; height: 80px;">
@@ -15,8 +13,6 @@
 </div>
 
 
-
-<br />
 <div id="badges">
   <a href="https://www.linkedin.com/in/md-emon-talukdar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
