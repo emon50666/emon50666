@@ -23,4 +23,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080623072389)
 ## My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emon50666&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emon50666&show_icons=true&theme=radical) 
+## My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon50666&layout=compact)
+
