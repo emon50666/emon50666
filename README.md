@@ -1,7 +1,8 @@
 # Hello, I'm MD Emon Talukdar 👋
 
-![GitHub Banner](https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png)
-![Banner](https://github.com/<emon50666>/<emon50666>.github.io/raw/main/[banner-image.png](https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png))
+<a href="https://www.your-link.com" target="_blank" style="display: inline-block; padding: 15px 30px; font-size: 18px; font-weight: bold; text-transform: uppercase; color: #ffffff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease, transform 0.3s ease; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#007bff'; this.style.transform='scale(1)';" onmousedown="this.style.backgroundColor='#003d7a'; this.style.transform='scale(0.95)';" onmouseup="this.style.backgroundColor='#0056b3'; this.style.transform='scale(1)';">Web Developer</a>
+
+
 
 
 ## About Us
