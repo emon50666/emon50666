@@ -1,5 +1,6 @@
 
-(https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png)
+<img src="https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png" alt="MERN Stack Developer" width="300"/>
+
 ## About Us
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
  I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, & Next JS . I bring a comprehensive approach to building full-stack solutions. 
