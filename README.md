@@ -1,6 +1,7 @@
  <img src="https://i.ibb.co/ygctZMP/MERN-STACK-DEVELOPER.png"/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,node-js,express,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,nodejs,express,firebase)](https://skillicons.dev)
+<br />
 <div id="badges">
   <a href="https://www.linkedin.com/in/md-emon-talukdar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
