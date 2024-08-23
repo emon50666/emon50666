@@ -1,6 +1,7 @@
 # Hello, I'm MD Emon Talukdar 👋
-<img src="https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png" style="width: 100%; max-width: 600px; height: auto;" />
 
+![GitHub Banner](https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png)
+![Banner](https://github.com/<emon50666>/<emon50666>.github.io/raw/main/banner-image.png)
 
 
 ## About Us
