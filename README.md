@@ -1,9 +1,7 @@
 # Hello, I'm MD Emon Talukdar 👋
 
-<a href="https://www.your-link.com" target="_blank" style="display: inline-block; padding: 15px 30px; font-size: 30px; font-weight: bold; text-transform: uppercase; color: #ffffff; background-color: #fff800; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease, transform 0.3s ease; ">Web Developer</a>
 
-
-
+## Web Developer
 
 ## About Us
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
