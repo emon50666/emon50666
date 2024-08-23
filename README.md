@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png" alt="MERN Stack Developer" width="300"/>
+<img src="https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png" alt="MERN Stack Developer" width="600" hight="300"/>
 
 ## About Us
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
