@@ -13,7 +13,7 @@
 </div>
 
 
-<div id="badges" style="display: flex; gap: 10px; margin-top: 10px;">
+<div id="badges" style="display: flex; gap: 10px; margin-top: 10px; padding-top:10px;">
   <a href="https://www.linkedin.com/in/md-emon-talukdar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width: 150px; height: 40px;"/>
   </a>
