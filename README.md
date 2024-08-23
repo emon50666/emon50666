@@ -25,5 +25,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emon50666&show_icons=true&theme=radical) 
 ## My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon50666&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emon50666)
+
 
