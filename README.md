@@ -1,12 +1,5 @@
 # Hello, I'm MD Emon Talukdar 👋
 
-
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
-
 ## About Us
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
  I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, & Next JS . I bring a comprehensive approach to building full-stack solutions. 
