@@ -1,7 +1,9 @@
 # Hello, I'm MD Emon Talukdar 👋
 
 
-## Web Developer
+<h1 align="center">
+ <img src="https://i.ibb.co/PrqzLzH/MERN-STACK-DEVELOPER-1.png" />
+</h1>
 
 ## About Us
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
