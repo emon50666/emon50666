@@ -14,13 +14,6 @@ Contact me if you need any web application.
 
 [![MdEmonTalukdar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emon50666&show&theme=react-dark)](https://github.com/emon50666&show)
 
-
-
-
-
-
-## My Tech Stack
-
 ### Languages and Frameworks
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
