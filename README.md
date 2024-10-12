@@ -4,10 +4,11 @@
 Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
  I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, & Next JS . I bring a comprehensive approach to building full-stack solutions. 
 Contact me if you need any web application.
-## My GitHub Stats
 
+## GitHub Streak
 
-![MdEmonTalukdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emon50666&show&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emon50666&show&theme=radical)
+
 
 ## Contribution Graph
 
