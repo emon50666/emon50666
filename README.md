@@ -6,16 +6,14 @@ Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a bo
 Contact me if you need any web application.
 ## My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emon50666&show_icons=true&theme=radical) 
-### GitHub Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emon50666&show&theme=radical)
 ### My GitHub Stats
 
 ![MdEmonTalukdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emon50666&show&show_icons=true&theme=radical)
 ### Contribution Graph
+![Profile Views](https://komarev.com/ghpvc/?username=emon50666&show&color=blue)
 
-[![MdEmonTalukdar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emon50666&show&theme=react-dark)](https://github.com/MdEmonTalukdar)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=emon50666&show&color=blue)
 
 
