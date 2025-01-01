@@ -1,8 +1,8 @@
 # Hello, I'm MD Emon Talukdar 👋
 
 ## About Us
-Welcome to my Digital playground! I'm a dedicated MERN Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
- I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Express.js, React, JavaScript ,Node.js, & Next JS . I bring a comprehensive approach to building full-stack solutions. 
+Welcome to my Digital playground! I'm a dedicated Front-end and Full Stack Developer with a boundless enthusiasm for crafting immersive web experiences.
+ I thrive on creating dynamic and responsive web applications. With a solid foundation in MongoDB, Mongosse, Redux, Express.js, React, JavaScript ,Node.js, & Next JS . I bring a comprehensive approach to building full-stack solutions. 
 Contact me if you need any web application.
 
 ## GitHub Streak
